@@ -2,9 +2,9 @@
 
 ### School
 
-[Seesaw] (https://app.seesaw.me/)
+[Seesaw](https://app.seesaw.me/)
 
-[Drive] (https://drive.google.com/)
+[Drive](https://drive.google.com/)
 
 
 ## Education
