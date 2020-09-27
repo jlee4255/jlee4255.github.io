@@ -1,6 +1,6 @@
 ## Links
 
-# School
+### School
 
 [Seesaw] (https://app.seesaw.me/)
 
